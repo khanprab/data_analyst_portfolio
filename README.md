@@ -3,6 +3,7 @@ Data Analyst Portfolio
 Welcome to my data analyst portfolio! I am a dedicated and skilled Data Analyst with a background in Computer Science and a strong foundation in SQL, Python (Pandas, NumPy), and data visualization tools such as Tableau. Below, you'll find a collection of projects and experiences that demonstrate my expertise and capabilities in data analysis.
 
 About Me
+
 I am a tech enthusiast and Data Analyst with a BSc in Computer Science. My experience includes working at Albany Beck Consulting and Deutsche Bank, where I honed my skills in conducting data quality tests, utilizing Python frameworks like Great Expectations, and generating insightful Tableau reports. Additionally, my university projects, including developing a Time Management app and an AR-based CPR Tutorial app, showcase my practical application of data-driven solutions.
 
 Projects
