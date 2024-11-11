@@ -4,15 +4,15 @@ Welcome! This portfolio showcases my projects and skills as a Data Analyst.
 
 Projects
 
-Data Quality Testing
+Data Quality Testing - WIP
 Conducted data quality tests using Python-based frameworks like Great Expectations.
 Identified data discrepancies and ensured data integrity.
 
-Tableau Visualization
+Tableau Visualization - WIP
 Generated Tableau reports for analysis and visualization.
 Visualized trends and patterns to facilitate decision-making.
 
-Time Management App
+Time Management App 
 Led a team project to develop a smartphone app for time management.
 Improved time management skills and productivity.
 
